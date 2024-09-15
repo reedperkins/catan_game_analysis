@@ -1,0 +1,4933 @@
+9:58:51 AM - MessagePack Decoded: {
+  "id": "133",
+  "data": {
+    "type": 4,
+    "payload": [
+      {
+        "id": "geBD",
+        "playerCount": 4,
+        "disconnected": true
+      }
+    ]
+  }
+}
+9:58:51 AM - MessagePack Decoded: {
+  "id": "133",
+  "data": {
+    "type": 2,
+    "payload": {
+      "id": "04CD25.11696594"
+    }
+  }
+}
+9:58:51 AM - SESSION_ESTABLISHED
+9:58:51 AM - MessagePack Decoded: {
+  "id": "135",
+  "data": {
+    "type": 6,
+    "payload": []
+  }
+}
+9:58:52 AM - MessagePack Decoded: {
+  "id": "135",
+  "data": {
+    "type": 8,
+    "payload": 0
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 78,
+    "payload": false,
+    "sequence": 1
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 6,
+    "payload": false,
+    "sequence": 2
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 1,
+    "payload": {
+      "gameSettingId": "DKDb",
+      "shouldResetGameClient": true,
+      "databaseGameId": "123198463",
+      "serverId": "048C38",
+      "isReconnectingSession": false
+    },
+    "sequence": 3
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 44,
+    "payload": {
+      "id": "DKDb",
+      "channelId": null,
+      "gameType": 2,
+      "privateGame": false,
+      "playOrderSelectionActive": false,
+      "minimumKarma": 0,
+      "eloType": 0,
+      "modeSetting": 0,
+      "extensionSetting": 0,
+      "scenarioSetting": 0,
+      "mapSetting": 0,
+      "diceSetting": 1,
+      "victoryPointsToWin": 10,
+      "karmaActive": false,
+      "cardDiscardLimit": 7,
+      "maxPlayers": 4,
+      "gameSpeed": 1,
+      "botSpeed": 0,
+      "hideBankCards": false,
+      "friendlyRobber": false
+    },
+    "sequence": 4
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 4,
+    "payload": {
+      "playerColor": 1,
+      "playOrder": [
+        4,
+        3,
+        1,
+        2
+      ],
+      "optionalGameMechanics": [
+        1
+      ],
+      "gameState": {
+        "diceState": {
+          "diceThrown": false,
+          "dice1": 1,
+          "dice2": 1
+        },
+        "bankState": {
+          "hideBankCards": false,
+          "resourceCards": {
+            "1": 19,
+            "2": 19,
+            "3": 19,
+            "4": 19,
+            "5": 19
+          }
+        },
+        "mapState": {
+          "tileHexStates": {
+            "0": {
+              "x": 0,
+              "y": -2,
+              "type": 3,
+              "diceNumber": 6
+            },
+            "1": {
+              "x": -1,
+              "y": -1,
+              "type": 4,
+              "diceNumber": 2
+            },
+            "2": {
+              "x": -2,
+              "y": 0,
+              "type": 3,
+              "diceNumber": 5
+            },
+            "3": {
+              "x": -2,
+              "y": 1,
+              "type": 0,
+              "diceNumber": 0
+            },
+            "4": {
+              "x": -2,
+              "y": 2,
+              "type": 1,
+              "diceNumber": 8
+            },
+            "5": {
+              "x": -1,
+              "y": 2,
+              "type": 5,
+              "diceNumber": 4
+            },
+            "6": {
+              "x": 0,
+              "y": 2,
+              "type": 2,
+              "diceNumber": 11
+            },
+            "7": {
+              "x": 1,
+              "y": 1,
+              "type": 3,
+              "diceNumber": 12
+            },
+            "8": {
+              "x": 2,
+              "y": 0,
+              "type": 3,
+              "diceNumber": 9
+            },
+            "9": {
+              "x": 2,
+              "y": -1,
+              "type": 2,
+              "diceNumber": 10
+            },
+            "10": {
+              "x": 2,
+              "y": -2,
+              "type": 4,
+              "diceNumber": 8
+            },
+            "11": {
+              "x": 1,
+              "y": -2,
+              "type": 5,
+              "diceNumber": 3
+            },
+            "12": {
+              "x": 0,
+              "y": -1,
+              "type": 5,
+              "diceNumber": 9
+            },
+            "13": {
+              "x": -1,
+              "y": 0,
+              "type": 4,
+              "diceNumber": 10
+            },
+            "14": {
+              "x": -1,
+              "y": 1,
+              "type": 1,
+              "diceNumber": 3
+            },
+            "15": {
+              "x": 0,
+              "y": 1,
+              "type": 2,
+              "diceNumber": 6
+            },
+            "16": {
+              "x": 1,
+              "y": 0,
+              "type": 1,
+              "diceNumber": 5
+            },
+            "17": {
+              "x": 1,
+              "y": -1,
+              "type": 1,
+              "diceNumber": 4
+            },
+            "18": {
+              "x": 0,
+              "y": 0,
+              "type": 4,
+              "diceNumber": 11
+            }
+          },
+          "tileCornerStates": {
+            "0": {
+              "x": 0,
+              "y": -2,
+              "z": 0
+            },
+            "1": {
+              "x": 1,
+              "y": -3,
+              "z": 1
+            },
+            "2": {
+              "x": 0,
+              "y": -1,
+              "z": 0
+            },
+            "3": {
+              "x": 0,
+              "y": -2,
+              "z": 1
+            },
+            "4": {
+              "x": -1,
+              "y": -1,
+              "z": 0
+            },
+            "5": {
+              "x": 0,
+              "y": -3,
+              "z": 1
+            },
+            "6": {
+              "x": -1,
+              "y": 0,
+              "z": 0
+            },
+            "7": {
+              "x": -1,
+              "y": -1,
+              "z": 1
+            },
+            "8": {
+              "x": -2,
+              "y": 0,
+              "z": 0
+            },
+            "9": {
+              "x": -1,
+              "y": -2,
+              "z": 1
+            },
+            "10": {
+              "x": -2,
+              "y": 1,
+              "z": 0
+            },
+            "11": {
+              "x": -2,
+              "y": 0,
+              "z": 1
+            },
+            "12": {
+              "x": -3,
+              "y": 1,
+              "z": 0
+            },
+            "13": {
+              "x": -2,
+              "y": -1,
+              "z": 1
+            },
+            "14": {
+              "x": -1,
+              "y": 0,
+              "z": 1
+            },
+            "15": {
+              "x": -2,
+              "y": 2,
+              "z": 0
+            },
+            "16": {
+              "x": -2,
+              "y": 1,
+              "z": 1
+            },
+            "17": {
+              "x": -3,
+              "y": 2,
+              "z": 0
+            },
+            "18": {
+              "x": -1,
+              "y": 1,
+              "z": 1
+            },
+            "19": {
+              "x": -2,
+              "y": 3,
+              "z": 0
+            },
+            "20": {
+              "x": -2,
+              "y": 2,
+              "z": 1
+            },
+            "21": {
+              "x": -3,
+              "y": 3,
+              "z": 0
+            },
+            "22": {
+              "x": -1,
+              "y": 2,
+              "z": 0
+            },
+            "23": {
+              "x": 0,
+              "y": 1,
+              "z": 1
+            },
+            "24": {
+              "x": -1,
+              "y": 3,
+              "z": 0
+            },
+            "25": {
+              "x": -1,
+              "y": 2,
+              "z": 1
+            },
+            "26": {
+              "x": 0,
+              "y": 2,
+              "z": 0
+            },
+            "27": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "28": {
+              "x": 0,
+              "y": 3,
+              "z": 0
+            },
+            "29": {
+              "x": 0,
+              "y": 2,
+              "z": 1
+            },
+            "30": {
+              "x": 1,
+              "y": 1,
+              "z": 0
+            },
+            "31": {
+              "x": 2,
+              "y": 0,
+              "z": 1
+            },
+            "32": {
+              "x": 1,
+              "y": 2,
+              "z": 0
+            },
+            "33": {
+              "x": 1,
+              "y": 0,
+              "z": 1
+            },
+            "34": {
+              "x": 2,
+              "y": 0,
+              "z": 0
+            },
+            "35": {
+              "x": 3,
+              "y": -1,
+              "z": 1
+            },
+            "36": {
+              "x": 2,
+              "y": 1,
+              "z": 0
+            },
+            "37": {
+              "x": 2,
+              "y": -1,
+              "z": 1
+            },
+            "38": {
+              "x": 2,
+              "y": -1,
+              "z": 0
+            },
+            "39": {
+              "x": 3,
+              "y": -2,
+              "z": 1
+            },
+            "40": {
+              "x": 1,
+              "y": 0,
+              "z": 0
+            },
+            "41": {
+              "x": 2,
+              "y": -2,
+              "z": 1
+            },
+            "42": {
+              "x": 2,
+              "y": -2,
+              "z": 0
+            },
+            "43": {
+              "x": 3,
+              "y": -3,
+              "z": 1
+            },
+            "44": {
+              "x": 1,
+              "y": -1,
+              "z": 0
+            },
+            "45": {
+              "x": 2,
+              "y": -3,
+              "z": 1
+            },
+            "46": {
+              "x": 1,
+              "y": -2,
+              "z": 0
+            },
+            "47": {
+              "x": 1,
+              "y": -2,
+              "z": 1
+            },
+            "48": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "49": {
+              "x": 0,
+              "y": -1,
+              "z": 1
+            },
+            "50": {
+              "x": -1,
+              "y": 1,
+              "z": 0
+            },
+            "51": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "52": {
+              "x": 0,
+              "y": 1,
+              "z": 0
+            },
+            "53": {
+              "x": 1,
+              "y": -1,
+              "z": 1
+            }
+          },
+          "tileEdgeStates": {
+            "0": {
+              "x": 1,
+              "y": -3,
+              "z": 2
+            },
+            "1": {
+              "x": 1,
+              "y": -2,
+              "z": 1
+            },
+            "2": {
+              "x": 0,
+              "y": -1,
+              "z": 0
+            },
+            "3": {
+              "x": 0,
+              "y": -2,
+              "z": 2
+            },
+            "4": {
+              "x": 0,
+              "y": -2,
+              "z": 1
+            },
+            "5": {
+              "x": 0,
+              "y": -2,
+              "z": 0
+            },
+            "6": {
+              "x": 0,
+              "y": -1,
+              "z": 1
+            },
+            "7": {
+              "x": -1,
+              "y": 0,
+              "z": 0
+            },
+            "8": {
+              "x": -1,
+              "y": -1,
+              "z": 2
+            },
+            "9": {
+              "x": -1,
+              "y": -1,
+              "z": 1
+            },
+            "10": {
+              "x": -1,
+              "y": -1,
+              "z": 0
+            },
+            "11": {
+              "x": -1,
+              "y": 0,
+              "z": 1
+            },
+            "12": {
+              "x": -2,
+              "y": 1,
+              "z": 0
+            },
+            "13": {
+              "x": -2,
+              "y": 0,
+              "z": 2
+            },
+            "14": {
+              "x": -2,
+              "y": 0,
+              "z": 1
+            },
+            "15": {
+              "x": -2,
+              "y": 0,
+              "z": 0
+            },
+            "16": {
+              "x": -1,
+              "y": 0,
+              "z": 2
+            },
+            "17": {
+              "x": -1,
+              "y": 1,
+              "z": 1
+            },
+            "18": {
+              "x": -2,
+              "y": 2,
+              "z": 0
+            },
+            "19": {
+              "x": -2,
+              "y": 1,
+              "z": 2
+            },
+            "20": {
+              "x": -2,
+              "y": 1,
+              "z": 1
+            },
+            "21": {
+              "x": -1,
+              "y": 1,
+              "z": 2
+            },
+            "22": {
+              "x": -1,
+              "y": 2,
+              "z": 1
+            },
+            "23": {
+              "x": -2,
+              "y": 3,
+              "z": 0
+            },
+            "24": {
+              "x": -2,
+              "y": 2,
+              "z": 2
+            },
+            "25": {
+              "x": -2,
+              "y": 2,
+              "z": 1
+            },
+            "26": {
+              "x": 0,
+              "y": 1,
+              "z": 2
+            },
+            "27": {
+              "x": 0,
+              "y": 2,
+              "z": 1
+            },
+            "28": {
+              "x": -1,
+              "y": 3,
+              "z": 0
+            },
+            "29": {
+              "x": -1,
+              "y": 2,
+              "z": 2
+            },
+            "30": {
+              "x": -1,
+              "y": 2,
+              "z": 0
+            },
+            "31": {
+              "x": 1,
+              "y": 1,
+              "z": 2
+            },
+            "32": {
+              "x": 1,
+              "y": 2,
+              "z": 1
+            },
+            "33": {
+              "x": 0,
+              "y": 3,
+              "z": 0
+            },
+            "34": {
+              "x": 0,
+              "y": 2,
+              "z": 2
+            },
+            "35": {
+              "x": 0,
+              "y": 2,
+              "z": 0
+            },
+            "36": {
+              "x": 2,
+              "y": 0,
+              "z": 2
+            },
+            "37": {
+              "x": 2,
+              "y": 1,
+              "z": 1
+            },
+            "38": {
+              "x": 1,
+              "y": 2,
+              "z": 0
+            },
+            "39": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "40": {
+              "x": 1,
+              "y": 1,
+              "z": 0
+            },
+            "41": {
+              "x": 3,
+              "y": -1,
+              "z": 2
+            },
+            "42": {
+              "x": 3,
+              "y": 0,
+              "z": 1
+            },
+            "43": {
+              "x": 2,
+              "y": 1,
+              "z": 0
+            },
+            "44": {
+              "x": 2,
+              "y": 0,
+              "z": 1
+            },
+            "45": {
+              "x": 2,
+              "y": 0,
+              "z": 0
+            },
+            "46": {
+              "x": 3,
+              "y": -2,
+              "z": 2
+            },
+            "47": {
+              "x": 3,
+              "y": -1,
+              "z": 1
+            },
+            "48": {
+              "x": 2,
+              "y": -1,
+              "z": 2
+            },
+            "49": {
+              "x": 2,
+              "y": -1,
+              "z": 1
+            },
+            "50": {
+              "x": 2,
+              "y": -1,
+              "z": 0
+            },
+            "51": {
+              "x": 3,
+              "y": -3,
+              "z": 2
+            },
+            "52": {
+              "x": 3,
+              "y": -2,
+              "z": 1
+            },
+            "53": {
+              "x": 2,
+              "y": -2,
+              "z": 2
+            },
+            "54": {
+              "x": 2,
+              "y": -2,
+              "z": 1
+            },
+            "55": {
+              "x": 2,
+              "y": -2,
+              "z": 0
+            },
+            "56": {
+              "x": 2,
+              "y": -3,
+              "z": 2
+            },
+            "57": {
+              "x": 1,
+              "y": -1,
+              "z": 0
+            },
+            "58": {
+              "x": 1,
+              "y": -2,
+              "z": 2
+            },
+            "59": {
+              "x": 1,
+              "y": -2,
+              "z": 0
+            },
+            "60": {
+              "x": 1,
+              "y": -1,
+              "z": 1
+            },
+            "61": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "62": {
+              "x": 0,
+              "y": -1,
+              "z": 2
+            },
+            "63": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "64": {
+              "x": -1,
+              "y": 1,
+              "z": 0
+            },
+            "65": {
+              "x": 0,
+              "y": 0,
+              "z": 2
+            },
+            "66": {
+              "x": 0,
+              "y": 1,
+              "z": 1
+            },
+            "67": {
+              "x": 1,
+              "y": 0,
+              "z": 2
+            },
+            "68": {
+              "x": 0,
+              "y": 1,
+              "z": 0
+            },
+            "69": {
+              "x": 1,
+              "y": 0,
+              "z": 1
+            },
+            "70": {
+              "x": 1,
+              "y": 0,
+              "z": 0
+            },
+            "71": {
+              "x": 1,
+              "y": -1,
+              "z": 2
+            }
+          },
+          "portEdgeStates": {
+            "0": {
+              "x": 0,
+              "y": -2,
+              "z": 0,
+              "type": 3
+            },
+            "1": {
+              "x": -2,
+              "y": 2,
+              "z": 2,
+              "type": 1
+            },
+            "2": {
+              "x": -1,
+              "y": 3,
+              "z": 0,
+              "type": 5
+            },
+            "3": {
+              "x": 3,
+              "y": 0,
+              "z": 1,
+              "type": 4
+            },
+            "4": {
+              "x": -1,
+              "y": -1,
+              "z": 1,
+              "type": 1
+            },
+            "5": {
+              "x": -2,
+              "y": 1,
+              "z": 1,
+              "type": 1
+            },
+            "6": {
+              "x": 1,
+              "y": 2,
+              "z": 0,
+              "type": 2
+            },
+            "7": {
+              "x": 2,
+              "y": -3,
+              "z": 2,
+              "type": 1
+            },
+            "8": {
+              "x": 3,
+              "y": -2,
+              "z": 2,
+              "type": 6
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 0,
+          "turnState": 0,
+          "actionState": 1,
+          "currentTurnPlayerColor": 4,
+          "startTime": 1726329535144,
+          "allocatedTime": 480
+        },
+        "tradeState": {
+          "activeOffers": {},
+          "closedOffers": {},
+          "embargoState": {
+            "1": {
+              "activeEmbargosAgainst": []
+            },
+            "2": {
+              "activeEmbargosAgainst": []
+            },
+            "3": {
+              "activeEmbargosAgainst": []
+            },
+            "4": {
+              "activeEmbargosAgainst": []
+            }
+          }
+        },
+        "playerStates": {
+          "1": {
+            "color": 1,
+            "victoryPointsState": {},
+            "bankTradeRatiosState": {
+              "1": 4,
+              "2": 4,
+              "3": 4,
+              "4": 4,
+              "5": 4
+            },
+            "resourceCards": {
+              "cards": []
+            },
+            "cardDiscardLimit": 7,
+            "isConnected": true,
+            "isTakingAction": false
+          },
+          "2": {
+            "color": 2,
+            "victoryPointsState": {},
+            "bankTradeRatiosState": {
+              "1": 4,
+              "2": 4,
+              "3": 4,
+              "4": 4,
+              "5": 4
+            },
+            "resourceCards": {
+              "cards": []
+            },
+            "cardDiscardLimit": 7,
+            "isConnected": false,
+            "isTakingAction": false
+          },
+          "3": {
+            "color": 3,
+            "victoryPointsState": {},
+            "bankTradeRatiosState": {
+              "1": 4,
+              "2": 4,
+              "3": 4,
+              "4": 4,
+              "5": 4
+            },
+            "resourceCards": {
+              "cards": []
+            },
+            "cardDiscardLimit": 7,
+            "isConnected": false,
+            "isTakingAction": false
+          },
+          "4": {
+            "color": 4,
+            "victoryPointsState": {},
+            "bankTradeRatiosState": {
+              "1": 4,
+              "2": 4,
+              "3": 4,
+              "4": 4,
+              "5": 4
+            },
+            "resourceCards": {
+              "cards": []
+            },
+            "cardDiscardLimit": 7,
+            "isConnected": false,
+            "isTakingAction": false
+          }
+        },
+        "gameLogState": {
+          "0": {
+            "text": {
+              "type": 2,
+              "isDiscord": false
+            }
+          },
+          "1": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "gameChatState": {},
+        "mechanicDevelopmentCardsState": {
+          "bankDevelopmentCards": {
+            "cards": [
+              11,
+              11,
+              11,
+              12,
+              13,
+              11,
+              12,
+              11,
+              12,
+              13,
+              11,
+              14,
+              11,
+              11,
+              12,
+              11,
+              15,
+              14,
+              11,
+              11,
+              11,
+              11,
+              15,
+              11,
+              12
+            ]
+          },
+          "players": {
+            "1": {
+              "developmentCards": {
+                "cards": []
+              },
+              "developmentCardsUsed": []
+            },
+            "2": {
+              "developmentCards": {
+                "cards": []
+              },
+              "developmentCardsUsed": []
+            },
+            "3": {
+              "developmentCards": {
+                "cards": []
+              },
+              "developmentCardsUsed": []
+            },
+            "4": {
+              "developmentCards": {
+                "cards": []
+              },
+              "developmentCardsUsed": []
+            }
+          }
+        },
+        "mechanicSettlementState": {
+          "1": {
+            "bankSettlementAmount": 5
+          },
+          "2": {
+            "bankSettlementAmount": 5
+          },
+          "3": {
+            "bankSettlementAmount": 5
+          },
+          "4": {
+            "bankSettlementAmount": 5
+          }
+        },
+        "mechanicCityState": {
+          "1": {
+            "bankCityAmount": 4
+          },
+          "2": {
+            "bankCityAmount": 4
+          },
+          "3": {
+            "bankCityAmount": 4
+          },
+          "4": {
+            "bankCityAmount": 4
+          }
+        },
+        "mechanicRoadState": {
+          "1": {
+            "bankRoadAmount": 15
+          },
+          "2": {
+            "bankRoadAmount": 15
+          },
+          "3": {
+            "bankRoadAmount": 15
+          },
+          "4": {
+            "bankRoadAmount": 15
+          }
+        },
+        "mechanicLongestRoadState": {
+          "1": {
+            "longestRoad": 0
+          },
+          "2": {
+            "longestRoad": 0
+          },
+          "3": {
+            "longestRoad": 0
+          },
+          "4": {
+            "longestRoad": 0
+          }
+        },
+        "mechanicLargestArmyState": {
+          "1": {},
+          "2": {},
+          "3": {},
+          "4": {}
+        },
+        "mechanicRobberState": {
+          "locationTileIndex": 3,
+          "isActive": true
+        }
+      },
+      "playerUserStates": [
+        {
+          "userId": "15540679",
+          "username": "paccoast",
+          "icon": 11,
+          "selectedColor": 1,
+          "isBot": false,
+          "deviceType": 1,
+          "countryCode": "US",
+          "membership": null,
+          "profilePictureUrl": null
+        },
+        {
+          "userId": null,
+          "username": "Neill",
+          "icon": 1,
+          "selectedColor": 2,
+          "isBot": true,
+          "deviceType": 0,
+          "countryCode": null,
+          "membership": null,
+          "profilePictureUrl": null
+        },
+        {
+          "userId": null,
+          "username": "Stortz",
+          "icon": 1,
+          "selectedColor": 3,
+          "isBot": true,
+          "deviceType": 0,
+          "countryCode": null,
+          "membership": null,
+          "profilePictureUrl": null
+        },
+        {
+          "userId": null,
+          "username": "Hills",
+          "icon": 1,
+          "selectedColor": 4,
+          "isBot": true,
+          "deviceType": 0,
+          "countryCode": null,
+          "membership": null,
+          "profilePictureUrl": null
+        }
+      ],
+      "gameDetails": {
+        "isRanked": false,
+        "isDiscord": false
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 5
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [],
+    "sequence": 6
+  }
+}
+9:58:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileCornerStates": {
+            "2": {
+              "owner": 4,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329535360,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "4": {
+            "victoryPointsState": {
+              "0": 1
+            }
+          }
+        },
+        "gameLogState": {
+          "2": {
+            "text": {
+              "type": 4,
+              "playerColor": 4,
+              "pieceEnum": 2
+            },
+            "from": 4
+          }
+        },
+        "mechanicSettlementState": {
+          "4": {
+            "bankSettlementAmount": 4
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 7
+  }
+}
+9:58:56 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 8
+  }
+}
+9:58:56 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "1": {
+              "owner": 4,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 1,
+          "actionState": 1,
+          "currentTurnPlayerColor": 3,
+          "startTime": 1726329536315,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "3": {
+            "text": {
+              "type": 4,
+              "playerColor": 4,
+              "pieceEnum": 0
+            },
+            "from": 4
+          },
+          "4": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "4": {
+            "bankRoadAmount": 14
+          }
+        },
+        "mechanicLongestRoadState": {
+          "4": {
+            "longestRoad": 1
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 9
+  }
+}
+9:58:57 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [],
+    "sequence": 10
+  }
+}
+9:58:57 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileCornerStates": {
+            "37": {
+              "owner": 3,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329537515,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "3": {
+            "victoryPointsState": {
+              "0": 1
+            }
+          }
+        },
+        "gameLogState": {
+          "5": {
+            "text": {
+              "type": 4,
+              "playerColor": 3,
+              "pieceEnum": 2
+            },
+            "from": 3
+          }
+        },
+        "mechanicSettlementState": {
+          "3": {
+            "bankSettlementAmount": 4
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 11
+  }
+}
+9:58:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 12
+  }
+}
+9:58:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 59,
+    "payload": [],
+    "sequence": 13
+  }
+}
+9:58:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 30,
+    "payload": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      31,
+      32,
+      33,
+      35,
+      36,
+      38,
+      39,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "sequence": 14
+  }
+}
+9:58:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "45": {
+              "owner": 3,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 2,
+          "actionState": 1,
+          "currentTurnPlayerColor": 1,
+          "startTime": 1726329538422,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "6": {
+            "text": {
+              "type": 4,
+              "playerColor": 3,
+              "pieceEnum": 0
+            },
+            "from": 3
+          },
+          "7": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "3": {
+            "bankRoadAmount": 14
+          }
+        },
+        "mechanicLongestRoadState": {
+          "3": {
+            "longestRoad": 1
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 15
+  }
+}
+9:59:10 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 30,
+    "payload": [],
+    "sequence": 16
+  }
+}
+9:59:10 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 31,
+    "payload": [
+      30,
+      22,
+      21
+    ],
+    "sequence": 17
+  }
+}
+9:59:10 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [],
+    "sequence": 18
+  }
+}
+9:59:10 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileCornerStates": {
+            "18": {
+              "owner": 1,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329550391,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "1": {
+            "victoryPointsState": {
+              "0": 1
+            }
+          }
+        },
+        "gameLogState": {
+          "8": {
+            "text": {
+              "type": 4,
+              "playerColor": 1,
+              "pieceEnum": 2
+            },
+            "from": 1
+          }
+        },
+        "mechanicSettlementState": {
+          "1": {
+            "bankSettlementAmount": 4
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 19
+  }
+}
+9:59:11 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 31,
+    "payload": [],
+    "sequence": 20
+  }
+}
+9:59:11 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 32,
+    "payload": [],
+    "sequence": 21
+  }
+}
+9:59:11 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 22
+  }
+}
+9:59:11 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "22": {
+              "owner": 1,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 3,
+          "actionState": 1,
+          "currentTurnPlayerColor": 2,
+          "startTime": 1726329551850,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "9": {
+            "text": {
+              "type": 4,
+              "playerColor": 1,
+              "pieceEnum": 0
+            },
+            "from": 1
+          },
+          "10": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "1": {
+            "bankRoadAmount": 14
+          }
+        },
+        "mechanicLongestRoadState": {
+          "1": {
+            "longestRoad": 1
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 23
+  }
+}
+9:59:12 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [],
+    "sequence": 24
+  }
+}
+9:59:12 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileCornerStates": {
+            "41": {
+              "owner": 2,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329552543,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "2": {
+            "victoryPointsState": {
+              "0": 1
+            }
+          }
+        },
+        "gameLogState": {
+          "11": {
+            "text": {
+              "type": 4,
+              "playerColor": 2,
+              "pieceEnum": 2
+            },
+            "from": 2
+          }
+        },
+        "mechanicSettlementState": {
+          "2": {
+            "bankSettlementAmount": 4
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 25
+  }
+}
+9:59:13 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 26
+  }
+}
+9:59:13 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "50": {
+              "owner": 2,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 4,
+          "actionState": 1,
+          "startTime": 1726329553450,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "12": {
+            "text": {
+              "type": 4,
+              "playerColor": 2,
+              "pieceEnum": 0
+            },
+            "from": 2
+          },
+          "13": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "2": {
+            "bankRoadAmount": 14
+          }
+        },
+        "mechanicLongestRoadState": {
+          "2": {
+            "longestRoad": 1
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 27
+  }
+}
+9:59:14 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 2,
+        "tileIndex": 16,
+        "distributionType": 0,
+        "card": 1
+      },
+      {
+        "owner": 2,
+        "tileIndex": 15,
+        "distributionType": 0,
+        "card": 2
+      },
+      {
+        "owner": 2,
+        "tileIndex": 18,
+        "distributionType": 0,
+        "card": 4
+      }
+    ],
+    "sequence": 28
+  }
+}
+9:59:14 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "1": 18,
+            "2": 18,
+            "4": 18
+          }
+        },
+        "mapState": {
+          "tileCornerStates": {
+            "52": {
+              "owner": 2,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329554542,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "2": {
+            "victoryPointsState": {
+              "0": 2
+            },
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "14": {
+            "text": {
+              "type": 4,
+              "playerColor": 2,
+              "pieceEnum": 2
+            },
+            "from": 2
+          },
+          "15": {
+            "text": {
+              "type": 47,
+              "playerColor": 2,
+              "cardsToBroadcast": [
+                1,
+                2,
+                4
+              ],
+              "distributionType": 0
+            },
+            "from": 2
+          }
+        },
+        "mechanicSettlementState": {
+          "2": {
+            "bankSettlementAmount": 3
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 29
+  }
+}
+9:59:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 30
+  }
+}
+9:59:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 59,
+    "payload": [],
+    "sequence": 31
+  }
+}
+9:59:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 30,
+    "payload": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      20,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      31,
+      32,
+      35,
+      36,
+      39,
+      42,
+      43,
+      45,
+      46,
+      48,
+      49,
+      50
+    ],
+    "sequence": 32
+  }
+}
+9:59:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "67": {
+              "owner": 2,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 5,
+          "actionState": 1,
+          "currentTurnPlayerColor": 1,
+          "startTime": 1726329555448,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "16": {
+            "text": {
+              "type": 4,
+              "playerColor": 2,
+              "pieceEnum": 0
+            },
+            "from": 2
+          },
+          "17": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "2": {
+            "bankRoadAmount": 13
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 33
+  }
+}
+9:59:21 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 30,
+    "payload": [],
+    "sequence": 34
+  }
+}
+9:59:21 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 31,
+    "payload": [
+      6,
+      62,
+      7
+    ],
+    "sequence": 35
+  }
+}
+9:59:21 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 1,
+        "tileIndex": 12,
+        "distributionType": 0,
+        "card": 5
+      },
+      {
+        "owner": 1,
+        "tileIndex": 13,
+        "distributionType": 0,
+        "card": 4
+      },
+      {
+        "owner": 1,
+        "tileIndex": 1,
+        "distributionType": 0,
+        "card": 4
+      }
+    ],
+    "sequence": 36
+  }
+}
+9:59:21 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "4": 16,
+            "5": 18
+          }
+        },
+        "mapState": {
+          "tileCornerStates": {
+            "6": {
+              "owner": 1,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329561398,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "1": {
+            "victoryPointsState": {
+              "0": 2
+            },
+            "resourceCards": {
+              "cards": [
+                5,
+                4,
+                4
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "18": {
+            "text": {
+              "type": 4,
+              "playerColor": 1,
+              "pieceEnum": 2
+            },
+            "from": 1
+          },
+          "19": {
+            "text": {
+              "type": 47,
+              "playerColor": 1,
+              "cardsToBroadcast": [
+                5,
+                4,
+                4
+              ],
+              "distributionType": 0
+            },
+            "from": 1
+          }
+        },
+        "mechanicSettlementState": {
+          "1": {
+            "bankSettlementAmount": 3
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 37
+  }
+}
+9:59:23 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 31,
+    "payload": [],
+    "sequence": 38
+  }
+}
+9:59:23 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 32,
+    "payload": [],
+    "sequence": 39
+  }
+}
+9:59:23 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 40
+  }
+}
+9:59:23 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "7": {
+              "owner": 1,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 6,
+          "actionState": 1,
+          "currentTurnPlayerColor": 3,
+          "startTime": 1726329563602,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "20": {
+            "text": {
+              "type": 4,
+              "playerColor": 1,
+              "pieceEnum": 0
+            },
+            "from": 1
+          },
+          "21": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "1": {
+            "bankRoadAmount": 13
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 41
+  }
+}
+9:59:24 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 3,
+        "tileIndex": 15,
+        "distributionType": 0,
+        "card": 2
+      },
+      {
+        "owner": 3,
+        "tileIndex": 6,
+        "distributionType": 0,
+        "card": 2
+      },
+      {
+        "owner": 3,
+        "tileIndex": 5,
+        "distributionType": 0,
+        "card": 5
+      }
+    ],
+    "sequence": 42
+  }
+}
+9:59:24 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "2": 16,
+            "5": 17
+          }
+        },
+        "mapState": {
+          "tileCornerStates": {
+            "23": {
+              "owner": 3,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329564559,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "3": {
+            "victoryPointsState": {
+              "0": 2
+            },
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "22": {
+            "text": {
+              "type": 4,
+              "playerColor": 3,
+              "pieceEnum": 2
+            },
+            "from": 3
+          },
+          "23": {
+            "text": {
+              "type": 47,
+              "playerColor": 3,
+              "cardsToBroadcast": [
+                2,
+                2,
+                5
+              ],
+              "distributionType": 0
+            },
+            "from": 3
+          }
+        },
+        "mechanicSettlementState": {
+          "3": {
+            "bankSettlementAmount": 3
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 43
+  }
+}
+9:59:25 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 44
+  }
+}
+9:59:25 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "35": {
+              "owner": 3,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 7,
+          "actionState": 1,
+          "currentTurnPlayerColor": 4,
+          "startTime": 1726329565556,
+          "allocatedTime": 480
+        },
+        "gameLogState": {
+          "24": {
+            "text": {
+              "type": 4,
+              "playerColor": 3,
+              "pieceEnum": 0
+            },
+            "from": 3
+          },
+          "25": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "3": {
+            "bankRoadAmount": 13
+          }
+        }
+      },
+      "timeLeftInState": 480
+    },
+    "sequence": 45
+  }
+}
+9:59:26 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 4,
+        "tileIndex": 17,
+        "distributionType": 0,
+        "card": 1
+      },
+      {
+        "owner": 4,
+        "tileIndex": 18,
+        "distributionType": 0,
+        "card": 4
+      },
+      {
+        "owner": 4,
+        "tileIndex": 12,
+        "distributionType": 0,
+        "card": 5
+      }
+    ],
+    "sequence": 46
+  }
+}
+9:59:26 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "1": 17,
+            "4": 15,
+            "5": 16
+          }
+        },
+        "mapState": {
+          "tileCornerStates": {
+            "48": {
+              "owner": 4,
+              "buildingType": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 3,
+          "startTime": 1726329566535,
+          "allocatedTime": 120
+        },
+        "playerStates": {
+          "4": {
+            "victoryPointsState": {
+              "0": 2
+            },
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "26": {
+            "text": {
+              "type": 4,
+              "playerColor": 4,
+              "pieceEnum": 2
+            },
+            "from": 4
+          },
+          "27": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                1,
+                4,
+                5
+              ],
+              "distributionType": 0
+            },
+            "from": 4
+          }
+        },
+        "mechanicSettlementState": {
+          "4": {
+            "bankSettlementAmount": 3
+          }
+        }
+      },
+      "timeLeftInState": 120
+    },
+    "sequence": 47
+  }
+}
+9:59:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 48
+  }
+}
+9:59:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 62,
+    "payload": {},
+    "sequence": 49
+  }
+}
+9:59:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "mapState": {
+          "tileEdgeStates": {
+            "60": {
+              "owner": 4,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "completedTurns": 8,
+          "turnState": 1,
+          "actionState": 0,
+          "startTime": 1726329567548,
+          "allocatedTime": 40
+        },
+        "gameLogState": {
+          "28": {
+            "text": {
+              "type": 4,
+              "playerColor": 4,
+              "pieceEnum": 0
+            },
+            "from": 4
+          },
+          "29": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicRoadState": {
+          "4": {
+            "bankRoadAmount": 13
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 50
+  }
+}
+9:59:28 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 4,
+        "tileIndex": 0,
+        "distributionType": 1,
+        "card": 3
+      },
+      {
+        "owner": 2,
+        "tileIndex": 15,
+        "distributionType": 1,
+        "card": 2
+      },
+      {
+        "owner": 3,
+        "tileIndex": 15,
+        "distributionType": 1,
+        "card": 2
+      }
+    ],
+    "sequence": 51
+  }
+}
+9:59:28 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 4,
+          "dice2": 2
+        },
+        "bankState": {
+          "resourceCards": {
+            "2": 14,
+            "3": 18
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329568646,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "2": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "30": {
+            "text": {
+              "type": 10,
+              "playerColor": 4,
+              "firstDice": 4,
+              "secondDice": 2
+            },
+            "from": 4
+          },
+          "31": {
+            "text": {
+              "type": 47,
+              "playerColor": 2,
+              "cardsToBroadcast": [
+                2
+              ],
+              "distributionType": 1
+            },
+            "from": 2
+          },
+          "32": {
+            "text": {
+              "type": 47,
+              "playerColor": 3,
+              "cardsToBroadcast": [
+                2
+              ],
+              "distributionType": 1
+            },
+            "from": 3
+          },
+          "33": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                3
+              ],
+              "distributionType": 1
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 52
+  }
+}
+9:59:29 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "mmTy": {
+              "id": "mmTy",
+              "creator": 4,
+              "offeredResources": [
+                4
+              ],
+              "wantedResources": [
+                2
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "3": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "mmTy": {
+              "offeredResources": [
+                4
+              ],
+              "wantedResources": [
+                2
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "34": {
+            "text": {
+              "type": 118,
+              "playerColor": 4,
+              "wantedCardEnums": [
+                2
+              ],
+              "offeredCardEnums": [
+                4
+              ]
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 239.039
+    },
+    "sequence": 53
+  }
+}
+9:59:29 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "mmTy": {
+              "playerResponses": {
+                "1": 2,
+                "2": 2,
+                "3": 1
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.925
+    },
+    "sequence": 54
+  }
+}
+9:59:30 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "mmTy",
+    "sequence": 55
+  }
+}
+9:59:30 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 4,
+      "givingCards": [
+        4
+      ],
+      "receivingPlayer": 3,
+      "receivingCards": [
+        2
+      ]
+    },
+    "sequence": 56
+  }
+}
+9:59:30 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "allocatedTime": 250
+        },
+        "tradeState": {
+          "activeOffers": {
+            "mmTy": null
+          }
+        },
+        "playerStates": {
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "35": {
+            "text": {
+              "type": 115,
+              "playerColor": 4,
+              "acceptingPlayerColor": 3,
+              "givenCardEnums": [
+                4
+              ],
+              "receivedCardEnums": [
+                2
+              ]
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 248.081
+    },
+    "sequence": 57
+  }
+}
+9:59:31 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "actionState": 4
+        }
+      },
+      "timeLeftInState": 247.052
+    },
+    "sequence": 58
+  }
+}
+9:59:32 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 4,
+      "givingCards": [
+        1,
+        2
+      ],
+      "receivingPlayer": 0,
+      "receivingCards": []
+    },
+    "sequence": 59
+  }
+}
+9:59:32 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "1": 18,
+            "2": 15
+          }
+        },
+        "mapState": {
+          "tileEdgeStates": {
+            "0": {
+              "owner": 4,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 0,
+          "allocatedTime": 260
+        },
+        "playerStates": {
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "36": {
+            "text": {
+              "type": 5,
+              "playerColor": 4,
+              "pieceEnum": 0,
+              "isVp": false
+            },
+            "from": 4
+          }
+        },
+        "mechanicRoadState": {
+          "4": {
+            "bankRoadAmount": 12
+          }
+        },
+        "mechanicLongestRoadState": {
+          "4": {
+            "longestRoad": 2
+          }
+        }
+      },
+      "timeLeftInState": 255.87
+    },
+    "sequence": 60
+  }
+}
+9:59:33 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 61
+  }
+}
+9:59:33 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 9,
+          "turnState": 1,
+          "currentTurnPlayerColor": 3,
+          "startTime": 1726329573721,
+          "allocatedTime": 40
+        },
+        "tradeState": {
+          "closedOffers": {
+            "mmTy": null
+          }
+        },
+        "gameLogState": {
+          "37": {
+            "text": {
+              "type": 44
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 62
+  }
+}
+9:59:34 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 4,
+        "tileIndex": 11,
+        "distributionType": 1,
+        "card": 5
+      },
+      {
+        "owner": 1,
+        "tileIndex": 14,
+        "distributionType": 1,
+        "card": 1
+      }
+    ],
+    "sequence": 63
+  }
+}
+9:59:34 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 1
+        },
+        "bankState": {
+          "resourceCards": {
+            "1": 17,
+            "5": 15
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329574714,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "1": {
+            "resourceCards": {
+              "cards": [
+                5,
+                4,
+                4,
+                1
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "38": {
+            "text": {
+              "type": 10,
+              "playerColor": 3,
+              "firstDice": 1,
+              "secondDice": 2
+            },
+            "from": 3
+          },
+          "39": {
+            "text": {
+              "type": 47,
+              "playerColor": 1,
+              "cardsToBroadcast": [
+                1
+              ],
+              "distributionType": 1
+            },
+            "from": 1
+          },
+          "40": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                5
+              ],
+              "distributionType": 1
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 64
+  }
+}
+9:59:35 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "u6PX": {
+              "id": "u6PX",
+              "creator": 3,
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                1
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "4": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "u6PX": {
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                1
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "41": {
+            "text": {
+              "type": 118,
+              "playerColor": 3,
+              "wantedCardEnums": [
+                1
+              ],
+              "offeredCardEnums": [
+                2
+              ]
+            },
+            "from": 3
+          }
+        }
+      },
+      "timeLeftInState": 238.907
+    },
+    "sequence": 65
+  }
+}
+9:59:36 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "u6PX": {
+              "playerResponses": {
+                "4": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.073
+    },
+    "sequence": 66
+  }
+}
+9:59:36 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "u6PX": {
+              "playerResponses": {
+                "2": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 237.984
+    },
+    "sequence": 67
+  }
+}
+9:59:47 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "u6PX",
+    "sequence": 68
+  }
+}
+9:59:47 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "u6PX": null
+          }
+        }
+      },
+      "timeLeftInState": 226.998
+    },
+    "sequence": 69
+  }
+}
+9:59:47 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 70
+  }
+}
+9:59:47 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 10,
+          "turnState": 1,
+          "currentTurnPlayerColor": 1,
+          "startTime": 1726329587774,
+          "allocatedTime": 40
+        },
+        "tradeState": {
+          "closedOffers": {
+            "u6PX": null
+          }
+        },
+        "gameLogState": {
+          "42": {
+            "text": {
+              "type": 44
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 71
+  }
+}
+9:59:49 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 3,
+        "tileIndex": 8,
+        "distributionType": 1,
+        "card": 3
+      },
+      {
+        "owner": 4,
+        "tileIndex": 12,
+        "distributionType": 1,
+        "card": 5
+      },
+      {
+        "owner": 4,
+        "tileIndex": 12,
+        "distributionType": 1,
+        "card": 5
+      },
+      {
+        "owner": 1,
+        "tileIndex": 12,
+        "distributionType": 1,
+        "card": 5
+      }
+    ],
+    "sequence": 72
+  }
+}
+9:59:49 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 5,
+          "dice2": 4
+        },
+        "bankState": {
+          "resourceCards": {
+            "3": 17,
+            "5": 12
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329589434,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "1": {
+            "resourceCards": {
+              "cards": [
+                5,
+                4,
+                4,
+                1,
+                5
+              ]
+            }
+          },
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "43": {
+            "text": {
+              "type": 10,
+              "playerColor": 1,
+              "firstDice": 5,
+              "secondDice": 4
+            },
+            "from": 1
+          },
+          "44": {
+            "text": {
+              "type": 47,
+              "playerColor": 1,
+              "cardsToBroadcast": [
+                5
+              ],
+              "distributionType": 1
+            },
+            "from": 1
+          },
+          "45": {
+            "text": {
+              "type": 47,
+              "playerColor": 3,
+              "cardsToBroadcast": [
+                3
+              ],
+              "distributionType": 1
+            },
+            "from": 3
+          },
+          "46": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                5,
+                5
+              ],
+              "distributionType": 1
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 73
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 31,
+    "payload": [],
+    "sequence": 74
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 32,
+    "payload": [],
+    "sequence": 75
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 30,
+    "payload": [],
+    "sequence": 76
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 33,
+    "payload": [],
+    "sequence": 77
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 78
+  }
+}
+10:03:50 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 11,
+          "turnState": 1,
+          "currentTurnPlayerColor": 2,
+          "startTime": 1726329830173,
+          "allocatedTime": 40
+        },
+        "gameLogState": {
+          "47": {
+            "text": {
+              "type": 44
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 79
+  }
+}
+10:03:51 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 1,
+        "tileIndex": 1,
+        "distributionType": 1,
+        "card": 4
+      }
+    ],
+    "sequence": 80
+  }
+}
+10:03:51 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 1,
+          "dice2": 1
+        },
+        "bankState": {
+          "resourceCards": {
+            "4": 14
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329831434,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "1": {
+            "resourceCards": {
+              "cards": [
+                5,
+                4,
+                4,
+                1,
+                5,
+                4
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "48": {
+            "text": {
+              "type": 10,
+              "playerColor": 2,
+              "firstDice": 1,
+              "secondDice": 1
+            },
+            "from": 2
+          },
+          "49": {
+            "text": {
+              "type": 47,
+              "playerColor": 1,
+              "cardsToBroadcast": [
+                4
+              ],
+              "distributionType": 1
+            },
+            "from": 1
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 81
+  }
+}
+10:03:52 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "yCjq": {
+              "id": "yCjq",
+              "creator": 2,
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                3
+              ],
+              "playerResponses": {
+                "1": 0,
+                "3": 0,
+                "4": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "yCjq": {
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                3
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "50": {
+            "text": {
+              "type": 118,
+              "playerColor": 2,
+              "wantedCardEnums": [
+                3
+              ],
+              "offeredCardEnums": [
+                2
+              ]
+            },
+            "from": 2
+          }
+        }
+      },
+      "timeLeftInState": 239.072
+    },
+    "sequence": 82
+  }
+}
+10:03:52 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "yCjq": {
+              "playerResponses": {
+                "1": 2,
+                "3": 2,
+                "4": 1
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.776
+    },
+    "sequence": 83
+  }
+}
+10:03:53 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "yCjq",
+    "sequence": 84
+  }
+}
+10:03:53 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 2,
+      "givingCards": [
+        2
+      ],
+      "receivingPlayer": 4,
+      "receivingCards": [
+        3
+      ]
+    },
+    "sequence": 85
+  }
+}
+10:03:53 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "allocatedTime": 250
+        },
+        "tradeState": {
+          "activeOffers": {
+            "yCjq": null
+          }
+        },
+        "playerStates": {
+          "2": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "51": {
+            "text": {
+              "type": 115,
+              "playerColor": 2,
+              "acceptingPlayerColor": 4,
+              "givenCardEnums": [
+                2
+              ],
+              "receivedCardEnums": [
+                3
+              ]
+            },
+            "from": 2
+          }
+        }
+      },
+      "timeLeftInState": 248.181
+    },
+    "sequence": 86
+  }
+}
+10:03:53 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "actionState": 4
+        }
+      },
+      "timeLeftInState": 248.029
+    },
+    "sequence": 87
+  }
+}
+10:03:54 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 2,
+      "givingCards": [
+        1,
+        2
+      ],
+      "receivingPlayer": 0,
+      "receivingCards": []
+    },
+    "sequence": 88
+  }
+}
+10:03:54 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "1": 18,
+            "2": 16
+          }
+        },
+        "mapState": {
+          "tileEdgeStates": {
+            "52": {
+              "owner": 2,
+              "type": 1
+            }
+          }
+        },
+        "currentState": {
+          "actionState": 0,
+          "allocatedTime": 260
+        },
+        "playerStates": {
+          "2": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "52": {
+            "text": {
+              "type": 5,
+              "playerColor": 2,
+              "pieceEnum": 0,
+              "isVp": false
+            },
+            "from": 2
+          }
+        },
+        "mechanicRoadState": {
+          "2": {
+            "bankRoadAmount": 12
+          }
+        },
+        "mechanicLongestRoadState": {
+          "2": {
+            "longestRoad": 2
+          }
+        }
+      },
+      "timeLeftInState": 257.046
+    },
+    "sequence": 89
+  }
+}
+10:03:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 90
+  }
+}
+10:03:55 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 12,
+          "turnState": 1,
+          "currentTurnPlayerColor": 4,
+          "startTime": 1726329835429,
+          "allocatedTime": 40
+        },
+        "tradeState": {
+          "closedOffers": {
+            "yCjq": null
+          }
+        },
+        "gameLogState": {
+          "53": {
+            "text": {
+              "type": 44
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 91
+  }
+}
+10:03:56 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 4,
+        "tileIndex": 0,
+        "distributionType": 1,
+        "card": 3
+      },
+      {
+        "owner": 2,
+        "tileIndex": 15,
+        "distributionType": 1,
+        "card": 2
+      },
+      {
+        "owner": 3,
+        "tileIndex": 15,
+        "distributionType": 1,
+        "card": 2
+      }
+    ],
+    "sequence": 92
+  }
+}
+10:03:56 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 2,
+          "dice2": 4
+        },
+        "bankState": {
+          "resourceCards": {
+            "2": 14,
+            "3": 16
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329836333,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "2": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "54": {
+            "text": {
+              "type": 10,
+              "playerColor": 4,
+              "firstDice": 2,
+              "secondDice": 4
+            },
+            "from": 4
+          },
+          "55": {
+            "text": {
+              "type": 47,
+              "playerColor": 2,
+              "cardsToBroadcast": [
+                2
+              ],
+              "distributionType": 1
+            },
+            "from": 2
+          },
+          "56": {
+            "text": {
+              "type": 47,
+              "playerColor": 3,
+              "cardsToBroadcast": [
+                2
+              ],
+              "distributionType": 1
+            },
+            "from": 3
+          },
+          "57": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                3
+              ],
+              "distributionType": 1
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 93
+  }
+}
+10:03:57 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "dfap": {
+              "id": "dfap",
+              "creator": 4,
+              "offeredResources": [
+                5
+              ],
+              "wantedResources": [
+                1
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "3": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "dfap": {
+              "offeredResources": [
+                5
+              ],
+              "wantedResources": [
+                1
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "58": {
+            "text": {
+              "type": 118,
+              "playerColor": 4,
+              "wantedCardEnums": [
+                1
+              ],
+              "offeredCardEnums": [
+                5
+              ]
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 238.911
+    },
+    "sequence": 94
+  }
+}
+10:03:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "dfap": {
+              "playerResponses": {
+                "3": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.148
+    },
+    "sequence": 95
+  }
+}
+10:03:58 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "dfap": {
+              "playerResponses": {
+                "2": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.142
+    },
+    "sequence": 96
+  }
+}
+10:04:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "dfap",
+    "sequence": 97
+  }
+}
+10:04:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "dfap": null
+          }
+        }
+      },
+      "timeLeftInState": 226.984
+    },
+    "sequence": 98
+  }
+}
+10:04:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 99
+  }
+}
+10:04:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 13,
+          "turnState": 1,
+          "currentTurnPlayerColor": 3,
+          "startTime": 1726329849728,
+          "allocatedTime": 40
+        },
+        "tradeState": {
+          "closedOffers": {
+            "dfap": null
+          }
+        },
+        "gameLogState": {
+          "59": {
+            "text": {
+              "type": 44
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 100
+  }
+}
+10:04:10 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice1": 5,
+          "dice2": 2
+        },
+        "currentState": {
+          "actionState": 24,
+          "startTime": 1726329850689,
+          "allocatedTime": 80
+        },
+        "gameLogState": {
+          "60": {
+            "text": {
+              "type": 10,
+              "playerColor": 3,
+              "firstDice": 5,
+              "secondDice": 2
+            },
+            "from": 3
+          }
+        }
+      },
+      "timeLeftInState": 80
+    },
+    "sequence": 101
+  }
+}
+10:04:11 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "actionState": 27,
+          "startTime": 1726329851620
+        },
+        "gameLogState": {
+          "61": {
+            "text": {
+              "type": 11,
+              "playerColor": 3,
+              "pieceEnum": 5,
+              "tileInfo": {
+                "tileType": 5,
+                "diceNumber": 9,
+                "resourceType": 5
+              }
+            },
+            "from": 3
+          }
+        },
+        "mechanicRobberState": {
+          "locationTileIndex": 12
+        }
+      },
+      "timeLeftInState": 80
+    },
+    "sequence": 102
+  }
+}
+10:04:12 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 1,
+      "givingCards": [
+        4
+      ],
+      "receivingPlayer": 3,
+      "receivingCards": []
+    },
+    "sequence": 103
+  }
+}
+10:04:12 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "currentState": {
+          "turnState": 2,
+          "actionState": 0,
+          "startTime": 1726329852725,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "1": {
+            "resourceCards": {
+              "cards": [
+                5,
+                4,
+                1,
+                5,
+                4
+              ]
+            }
+          },
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "63": {
+            "text": {
+              "type": 15,
+              "playerColor": 3,
+              "cardEnums": [
+                4
+              ]
+            },
+            "from": 3,
+            "specificRecipients": [
+              1
+            ],
+            "toSpectators": false
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 104
+  }
+}
+10:04:13 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "GsHY": {
+              "id": "GsHY",
+              "creator": 3,
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                1
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "4": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "GsHY": {
+              "offeredResources": [
+                2
+              ],
+              "wantedResources": [
+                1
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "65": {
+            "text": {
+              "type": 118,
+              "playerColor": 3,
+              "wantedCardEnums": [
+                1
+              ],
+              "offeredCardEnums": [
+                2
+              ]
+            },
+            "from": 3
+          }
+        }
+      },
+      "timeLeftInState": 238.958
+    },
+    "sequence": 105
+  }
+}
+10:04:14 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "GsHY": {
+              "playerResponses": {
+                "2": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.262
+    },
+    "sequence": 106
+  }
+}
+10:04:14 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "GsHY": {
+              "playerResponses": {
+                "4": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 238.195
+    },
+    "sequence": 107
+  }
+}
+10:04:14 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "8baS": {
+              "id": "8baS",
+              "creator": 3,
+              "offeredResources": [
+                5
+              ],
+              "wantedResources": [
+                1
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "4": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "8baS": {
+              "offeredResources": [
+                5
+              ],
+              "wantedResources": [
+                1
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "66": {
+            "text": {
+              "type": 118,
+              "playerColor": 3,
+              "wantedCardEnums": [
+                1
+              ],
+              "offeredCardEnums": [
+                5
+              ]
+            },
+            "from": 3
+          }
+        }
+      },
+      "timeLeftInState": 237.938
+    },
+    "sequence": 108
+  }
+}
+10:04:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "8baS": {
+              "playerResponses": {
+                "4": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 237.225
+    },
+    "sequence": 109
+  }
+}
+10:04:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "8baS": {
+              "playerResponses": {
+                "2": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 237.049
+    },
+    "sequence": 110
+  }
+}
+10:04:15 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "zAhN": {
+              "id": "zAhN",
+              "creator": 3,
+              "offeredResources": [
+                4
+              ],
+              "wantedResources": [
+                1
+              ],
+              "playerResponses": {
+                "1": 0,
+                "2": 0,
+                "4": 0
+              },
+              "playersCreatingCounterOffer": {
+                "1": false,
+                "2": false,
+                "3": false,
+                "4": false
+              }
+            }
+          },
+          "closedOffers": {
+            "zAhN": {
+              "offeredResources": [
+                4
+              ],
+              "wantedResources": [
+                1
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "67": {
+            "text": {
+              "type": 118,
+              "playerColor": 3,
+              "wantedCardEnums": [
+                1
+              ],
+              "offeredCardEnums": [
+                4
+              ]
+            },
+            "from": 3
+          }
+        }
+      },
+      "timeLeftInState": 236.943
+    },
+    "sequence": 111
+  }
+}
+10:04:16 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "zAhN": {
+              "playerResponses": {
+                "4": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 236.268
+    },
+    "sequence": 112
+  }
+}
+10:04:16 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "zAhN": {
+              "playerResponses": {
+                "2": 2
+              }
+            }
+          }
+        }
+      },
+      "timeLeftInState": 235.993
+    },
+    "sequence": 113
+  }
+}
+10:04:25 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "GsHY",
+    "sequence": 114
+  }
+}
+10:04:25 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "GsHY": null
+          }
+        }
+      },
+      "timeLeftInState": 227.67
+    },
+    "sequence": 115
+  }
+}
+10:04:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "zAhN",
+    "sequence": 116
+  }
+}
+10:04:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "zAhN": null
+          }
+        }
+      },
+      "timeLeftInState": 225.318
+    },
+    "sequence": 117
+  }
+}
+10:04:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 40,
+    "payload": "8baS",
+    "sequence": 118
+  }
+}
+10:04:27 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "tradeState": {
+          "activeOffers": {
+            "8baS": null
+          }
+        }
+      },
+      "timeLeftInState": 225.272
+    },
+    "sequence": 119
+  }
+}
+10:04:28 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 3,
+      "givingCards": [
+        3,
+        4,
+        5
+      ],
+      "receivingPlayer": 0,
+      "receivingCards": []
+    },
+    "sequence": 120
+  }
+}
+10:04:28 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 43,
+    "payload": {
+      "givingPlayer": 0,
+      "givingCards": [
+        10
+      ],
+      "receivingPlayer": 3,
+      "receivingCards": []
+    },
+    "sequence": 121
+  }
+}
+10:04:28 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "bankState": {
+          "resourceCards": {
+            "3": 17,
+            "4": 15,
+            "5": 13
+          }
+        },
+        "currentState": {
+          "allocatedTime": 250
+        },
+        "playerStates": {
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "68": {
+            "text": {
+              "type": 1,
+              "playerColor": 3
+            },
+            "from": 3
+          }
+        },
+        "mechanicDevelopmentCardsState": {
+          "bankDevelopmentCards": {
+            "cards": [
+              11,
+              11,
+              12,
+              13,
+              11,
+              12,
+              11,
+              12,
+              13,
+              11,
+              14,
+              11,
+              11,
+              12,
+              11,
+              15,
+              14,
+              11,
+              11,
+              11,
+              11,
+              15,
+              11,
+              12
+            ]
+          },
+          "players": {
+            "3": {
+              "developmentCards": {
+                "cards": [
+                  11
+                ]
+              },
+              "developmentCardsBoughtThisTurn": [
+                11
+              ]
+            }
+          }
+        }
+      },
+      "timeLeftInState": 234.649
+    },
+    "sequence": 122
+  }
+}
+10:04:33 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 80,
+    "payload": null,
+    "sequence": 123
+  }
+}
+10:04:33 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": false
+        },
+        "currentState": {
+          "completedTurns": 14,
+          "turnState": 1,
+          "currentTurnPlayerColor": 1,
+          "startTime": 1726329869093,
+          "allocatedTime": 40
+        },
+        "tradeState": {
+          "closedOffers": {
+            "GsHY": null,
+            "8baS": null,
+            "zAhN": null
+          }
+        },
+        "gameLogState": {
+          "69": {
+            "text": {
+              "type": 44
+            }
+          }
+        },
+        "mechanicDevelopmentCardsState": {
+          "players": {
+            "3": {
+              "developmentCardsBoughtThisTurn": null
+            }
+          }
+        }
+      },
+      "timeLeftInState": 40
+    },
+    "sequence": 124
+  }
+}
+10:05:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 28,
+    "payload": [
+      {
+        "owner": 3,
+        "tileIndex": 6,
+        "distributionType": 1,
+        "card": 2
+      },
+      {
+        "owner": 4,
+        "tileIndex": 18,
+        "distributionType": 1,
+        "card": 4
+      },
+      {
+        "owner": 2,
+        "tileIndex": 18,
+        "distributionType": 1,
+        "card": 4
+      }
+    ],
+    "sequence": 125
+  }
+}
+10:05:09 AM - MessagePack Decoded: {
+  "id": "130",
+  "data": {
+    "type": 91,
+    "payload": {
+      "diff": {
+        "diceState": {
+          "diceThrown": true,
+          "dice2": 6
+        },
+        "bankState": {
+          "resourceCards": {
+            "2": 13,
+            "4": 13
+          }
+        },
+        "currentState": {
+          "turnState": 2,
+          "startTime": 1726329909298,
+          "allocatedTime": 240
+        },
+        "playerStates": {
+          "2": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "3": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          },
+          "4": {
+            "resourceCards": {
+              "cards": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "gameLogState": {
+          "70": {
+            "text": {
+              "type": 10,
+              "playerColor": 1,
+              "firstDice": 5,
+              "secondDice": 6
+            },
+            "from": 1
+          },
+          "71": {
+            "text": {
+              "type": 47,
+              "playerColor": 2,
+              "cardsToBroadcast": [
+                4
+              ],
+              "distributionType": 1
+            },
+            "from": 2
+          },
+          "72": {
+            "text": {
+              "type": 47,
+              "playerColor": 3,
+              "cardsToBroadcast": [
+                2
+              ],
+              "distributionType": 1
+            },
+            "from": 3
+          },
+          "73": {
+            "text": {
+              "type": 47,
+              "playerColor": 4,
+              "cardsToBroadcast": [
+                4
+              ],
+              "distributionType": 1
+            },
+            "from": 4
+          }
+        }
+      },
+      "timeLeftInState": 240
+    },
+    "sequence": 126
+  }
+}
